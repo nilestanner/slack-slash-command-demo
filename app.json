@@ -1,5 +1,5 @@
 {
-  "name": "Slack Slash Command Demo",
+  "name": "slack-slash-command-demo",
   "description": "Demo for building slack slash commands",
   "repository": "https://github.com/nilestanner/slack-slash-command-demo",
   "logo": "https://node-js-sample.herokuapp.com/node.png",

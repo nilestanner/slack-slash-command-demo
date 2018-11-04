@@ -1,5 +1,5 @@
 {
-  "name": "Slack Slash Command Demo",
+  "name": "slack-slash-command-demo",
   "version": "1.0.0",
   "description": "Demo for building slack slash commands",
   "main": "index.js",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/nilestanner/slack-slash-command-demo#readme",
   "dependencies": {
+    "app.json": "^1.3.0",
     "body-parser": "^1.18.3",
     "country-info-list": "^1.1.3",
     "express": "^4.16.4"
