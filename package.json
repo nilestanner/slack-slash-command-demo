@@ -1,5 +1,5 @@
 {
-  "name": "ls",
+  "name": "Slack Slash Command Demo",
   "version": "1.0.0",
   "description": "Demo for building slack slash commands",
   "main": "index.js",
