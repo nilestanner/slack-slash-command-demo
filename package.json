@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/nilestanner/slack-slash-command-demo#readme",
   "dependencies": {
-    "app.json": "^1.3.0",
     "body-parser": "^1.18.3",
     "country-info-list": "^1.1.3",
     "express": "^4.16.4"
